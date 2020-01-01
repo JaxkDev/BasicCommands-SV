@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BasicCommands",
+  "Author": "JaxkDev",
+  "Version": "0.1.0",
+  "Description": "Add some basic commands to spice up the gameplay.",
+  "UniqueID": "JaxkDev.BasicCommands",
+  "EntryDll": "BasicCommands-SV.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": [ "GitHub:JaxkDev/BasicCommands-SV" ]
+}
